@@ -5,5 +5,5 @@ An open source application that pulls in stock market data daily and displays th
 ## Tech Stack
 
 * Language: Python
-* Data management: Apache Cassandra
+* Data management: Scylladb
 * Dashboard: Redash
