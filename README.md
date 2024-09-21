@@ -1,1 +1,1 @@
-# daily-stock
+# Stock Trend
